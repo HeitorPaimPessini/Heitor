@@ -1,0 +1,45 @@
+body {
+	background-image: url(fundo.jpeg);
+	background-color: #deb887;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 4px dotted #8b4513;
+	padding: 10px 10px 10px 10px;
+	font-family: sans-serif;
+}
+
+h1.titulo {
+	color: #8b4513;
+	font-family: verdana;
+	text-shadow: 3px 3px 3px white;
+	font-size: 30pt;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+	text-align: center;
+}
+
+.img {
+	width: 70%;
+	height: 200px;
+	margin-left: 15%;
+}
+
+h1 {
+	color: 8b4513;
+	font-family: verdana;
+	text-shadow: 2px 2px 2px yellow;
+	text-align: center;
+}
+
+h2 {
+	color: #8b4513;
+	text-shadow: 2px 2px 2px yellow; 
+	text-align: center;
+}
+
+p {
+	color: black;
+	text-align: left; 
+	margin-left: 16%;
+}
